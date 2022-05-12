@@ -1,0 +1,1045 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LnDL",
+				"LnDL_L1"
+			],
+			[
+				"eq_q",
+				"eq_qH"
+			],
+			[
+				"Q",
+				"Q_bar"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"whi",
+				"whiteside"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"IPython Notebook",
+				"Open IPython Notebook"
+			],
+			[
+				"ipython",
+				"Open IPython Notebook"
+			],
+			[
+				"ipyt",
+				"Open IPython Notebook"
+			],
+			[
+				"latextoo",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"ipy",
+				"Open IPython Notebook"
+			],
+			[
+				"ip",
+				"Open IPython Notebook"
+			],
+			[
+				"open",
+				"Open IPython Notebook"
+			],
+			[
+				"Open IPython Notebook",
+				"Open IPython Notebook"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"view as",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"highlight",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"html",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fortran",
+				"Set Syntax: MinimalFortran"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"fortra",
+				"Set Syntax: Fortran - Modern"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 512.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"data",
+			"python",
+			"close(1)",
+			"close()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data"
+	],
+	"file_history":
+	[
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/navigation.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-nav.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-nav-mobile.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_main-nav.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/assets/js/scripts.js",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/assets/css/style.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_main-menu-mobile.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_nav.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_dropdown.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_button-group.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/default.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/header.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/hamburger.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/footer.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-menu-mobile.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-menu.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/stackbit.yaml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/menus.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/index.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/home.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/companies.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/team.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/about.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/contact.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/yanlongindustrial.sublime-project",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/staff.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/news-en.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/_posts/2022-05-09-yanlong.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/_posts/2022-05-09-燕龙实业.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/_posts/2022-05-07-apple.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/_posts/2022-05-08-banana.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/blog.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/guan-yu.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/index.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/jekyll.sublime-project",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll-serif-theme/jekyll-serif-theme.sublime-project",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/about.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/_includes/navigation.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/zh/index.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/_data/navigation.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll/_config.yml",
+		"/Users/titanic/Library/Application Support/Sublime Text 3/Local/Session.sublime_session",
+		"/Users/titanic/Dropbox/3Res_Others/Website/BMT/Gemfile",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_MkSc.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/3_Data.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_MkSc_Content.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/Result_NFXP_main.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/7_Result.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/8_CF.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/2_Python.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/1_Intro.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_Main.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/6_Estimation.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/5_Extension.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/4_Model.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/10_Appendix.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_Preamble.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/4_IONW.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Slides_Xu_Short.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Slides_Xu.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Proofread.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/0_Title.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/t2.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/9_Conclusion.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/Result_NFXP_comparison2.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/Demand_AR1IV.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_MS.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_MS_Response.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/MSc_Revision_2021_11/response.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/8_CF.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/7_Result.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/6_Estimation.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/4_Model.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/5_Extension.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/5_Estimation.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/3_Data.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Logit.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/comments_Han/5_Model_updated.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Others/Conf_Submission_CIST_2018.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_MS_Response.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/6_Extension.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/t1.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/Result_NFXP_comparison.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/9_Conclusion.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_Main.bbl",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/comments_Han/5_Model_updated copy.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/5_Estimation.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/6_Extension.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/2_Python.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/10_Appendix.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_Main.bbl",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/Demand_AR1IV.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/Jupyter/Others/Website_RedFlagDeals.py",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/ref.bib",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Others/Conf_Submission_Structural_Dynamic_Models_2018.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Others/Proposal_NET_Institute_2018.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/logit_fe.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Code/Reg/CF.do",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/CF_Subsidy_LowerAC0_OneThird_CmtyAR_and_AR_Change.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/Result_NFXP_main.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/t1.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/5_Model.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Others/TA_Pattern_Pkg_DL_Individual_Plot.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/0_Title_Thanks.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Figures/Graph_Cmty_0-9.tex",
+		"/Users/Titanic/Documents/Zoom/2020-07-21 09.34.30 ESWC Session 343 Platforms and Networks I 97275706854/meeting_saved_chat.txt",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Slides_Xu_201909.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/PriceGouging/paper/tables/reg_priceratio_rc_type_ivonly.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA.sublime-project",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_RAND.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/t5.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/t4.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/t3.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/AER-Article.tex",
+		"/Users/titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/6_Estimation.log",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_Preamble.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/1_Intro.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/ecta_draft.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/TA_Main.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/t2.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/5_Model.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/0_Title.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/4_IONW.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Others/Conf_Submission_CIST_2018.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Proofread.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Slides_Xu_201909.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tables/CF_Subsidy_LowerAC0_OneThird_Year_3.tex",
+		"/Users/Titanic/Dropbox/1Res_Main_Projects/TechAdoption/Paper/Tex/Slides_Xu_Long_201906.tex"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url: /",
+			"\"",
+			"menu",
+			"menus",
+			"menu",
+			"sort",
+			"menu",
+			"mobile",
+			"main-menu",
+			"menu",
+			"menus"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 174.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "yanlongindustrial.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mobile",
+				"_includes/main-nav-mobile.html"
+			],
+			[
+				"nav",
+				"_includes/main-nav.html"
+			],
+			[
+				"mobi",
+				"_includes/main-menu-mobile.html"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"menu",
+				"_includes/main-menu.html"
+			],
+			[
+				"home",
+				"_layouts/home.html"
+			],
+			[
+				"inde",
+				"index.md"
+			],
+			[
+				"main",
+				"_includes/main-menu-mobile.html"
+			],
+			[
+				"def",
+				"_layouts/default.html"
+			],
+			[
+				"cont",
+				"contact.md"
+			],
+			[
+				"about",
+				"about.md"
+			],
+			[
+				"team",
+				"team.md"
+			],
+			[
+				"serv",
+				"companies.md"
+			],
+			[
+				"new",
+				"news-en.html"
+			],
+			[
+				"yanl",
+				"_posts/2022-05-09-yanlong.md"
+			],
+			[
+				"05-0",
+				"_posts/2022-05-09-燕龙实业.md"
+			],
+			[
+				"bana",
+				"_posts/2022-05-08-banana.md"
+			],
+			[
+				"app",
+				"_posts/2022-05-07-apple.md"
+			],
+			[
+				"news",
+				"news.html"
+			],
+			[
+				"blog",
+				"blog.html"
+			],
+			[
+				"n",
+				"_data/navigation.yml"
+			],
+			[
+				"index",
+				"index-en.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"guan",
+				"guan-yu.md"
+			],
+			[
+				"navi",
+				"_data/navigation.yml"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"mk",
+				"TA_MkSc.tex"
+			],
+			[
+				"result",
+				"7_Result.tex"
+			],
+			[
+				"cf",
+				"8_CF.tex"
+			],
+			[
+				"1",
+				"1_Intro.tex"
+			],
+			[
+				"py",
+				"2_Python.tex"
+			],
+			[
+				"8",
+				"8_CF.tex"
+			],
+			[
+				"7",
+				"7_Result.tex"
+			],
+			[
+				"6",
+				"6_Estimation.tex"
+			],
+			[
+				"5",
+				"5_Extension.tex"
+			],
+			[
+				"4",
+				"4_Model.tex"
+			],
+			[
+				"3",
+				"3_Data.tex"
+			],
+			[
+				"pre",
+				"TA_Preamble.tex"
+			],
+			[
+				"appen",
+				"10_Appendix.tex"
+			],
+			[
+				"2",
+				"2_Python.tex"
+			],
+			[
+				"0",
+				"0_Title.tex"
+			],
+			[
+				"esti",
+				"6_Estimation.tex"
+			],
+			[
+				"estim",
+				"6_Estimation.tex"
+			],
+			[
+				"mode",
+				"4_Model.tex"
+			],
+			[
+				"mksc",
+				"TA_MkSc.tex"
+			],
+			[
+				"t2",
+				"t2.tex"
+			],
+			[
+				"ta_main",
+				"TA_Main.tex"
+			],
+			[
+				"ext",
+				"5_Extension.tex"
+			],
+			[
+				"ta_mksc",
+				"TA_MkSc.tex"
+			],
+			[
+				"10",
+				"10_Appendix.tex"
+			],
+			[
+				"9",
+				"9_Conclusion.tex"
+			],
+			[
+				"ta_ms",
+				"TA_MS.tex"
+			],
+			[
+				"model",
+				"4_Model.tex"
+			],
+			[
+				"ta_m",
+				"TA_Main.tex"
+			],
+			[
+				"ta_res",
+				"TA_MS_Response.tex"
+			],
+			[
+				"res",
+				"7_Result.tex"
+			],
+			[
+				"ms",
+				"TA_MS.tex"
+			],
+			[
+				"respon",
+				"TA_MS_Response.tex"
+			],
+			[
+				"resul",
+				"7_Result.tex"
+			],
+			[
+				"exte",
+				"5_Extension.tex"
+			],
+			[
+				"python",
+				"2_Python.tex"
+			],
+			[
+				"prea",
+				"TA_Preamble.tex"
+			],
+			[
+				"reso",
+				"MSc_Revision_2021_11/response.tex"
+			],
+			[
+				"appe",
+				"10_Appendix.tex"
+			],
+			[
+				"t1",
+				"t1.tex"
+			],
+			[
+				"copy",
+				"comments_Han/5_Model_updated copy.tex"
+			],
+			[
+				"et",
+				"5_Estimation.tex"
+			],
+			[
+				"resp",
+				"MSc_Revision_2021_11/response.tex"
+			],
+			[
+				"append",
+				"10_Appendix.tex"
+			],
+			[
+				"respo",
+				"MSc_Revision_2021_11/response.tex"
+			],
+			[
+				"",
+				"8_CF.tex"
+			],
+			[
+				"pream",
+				"TA_Preamble.tex"
+			],
+			[
+				"mani",
+				"TA_Main.tex"
+			],
+			[
+				"intr",
+				"1_Intro.tex"
+			],
+			[
+				"in",
+				"1_Intro.tex"
+			],
+			[
+				"slid",
+				"Slides_Xu_201909.tex"
+			],
+			[
+				"data",
+				"3_Data.tex"
+			],
+			[
+				"t5",
+				"t5.tex"
+			],
+			[
+				"t4",
+				"t4.tex"
+			],
+			[
+				"t3",
+				"t3.tex"
+			],
+			[
+				"slide",
+				"Slides_Xu_201909.tex"
+			],
+			[
+				"slides",
+				"Slides_Xu_201909.tex"
+			],
+			[
+				"mai",
+				"TA_Main.tex"
+			],
+			[
+				"title",
+				"0_Title.tex"
+			],
+			[
+				"est",
+				"6_Estimation.tex"
+			],
+			[
+				"min",
+				"TA_Main.tex"
+			],
+			[
+				"intro",
+				"1_Intro.tex"
+			],
+			[
+				"ta_",
+				"TA_Main.tex"
+			],
+			[
+				"long",
+				"Slides_Xu_Long_201906.tex"
+			],
+			[
+				"sli",
+				"Slides_Xu_Long_201906.tex"
+			],
+			[
+				"mdoel",
+				"5_Model.tex"
+			],
+			[
+				"dat",
+				"3_Data.tex"
+			],
+			[
+				"ta",
+				"TA_Preamble.tex"
+			],
+			[
+				"Result",
+				"7_Result.tex"
+			],
+			[
+				"int",
+				"1_Intro.tex"
+			],
+			[
+				"conc",
+				"9_Conclusion.tex"
+			],
+			[
+				"resu",
+				"7_Result.tex"
+			],
+			[
+				"maoin",
+				"6_Estimation.tex"
+			],
+			[
+				"ta_pre",
+				"TA_Preamble.tex"
+			],
+			[
+				"ta_p",
+				"TA_Preamble.tex"
+			],
+			[
+				"T4",
+				"t4.tex"
+			],
+			[
+				"T3",
+				"t3.tex"
+			],
+			[
+				"T2",
+				"t2.tex"
+			],
+			[
+				"00",
+				"Slides_Lei_201809_TSE.tex"
+			],
+			[
+				"proo",
+				"Proofread.tex"
+			],
+			[
+				"ino",
+				"1_Intro.tex"
+			],
+			[
+				"tha",
+				"0_Title_Thanks.tex"
+			],
+			[
+				"ma",
+				"TA_Main.tex"
+			],
+			[
+				"titl",
+				"0_Title.tex"
+			],
+			[
+				"tse",
+				"Slides_Lei_201809_TSE.tex"
+			],
+			[
+				"print",
+				"for_print.tex"
+			],
+			[
+				"con",
+				"9_Conclusion.tex"
+			],
+			[
+				"tit",
+				"0_Title.tex"
+			],
+			[
+				"TA_Preamble",
+				"TA_Preamble.tex"
+			],
+			[
+				"mod",
+				"4_Model.tex"
+			],
+			[
+				"lit",
+				"2_Lit.tex"
+			],
+			[
+				"ta_ma",
+				"TA_Main.tex"
+			],
+			[
+				"response",
+				"Msc_Revision_Response.tex"
+			],
+			[
+				"onlin",
+				"10_Online_Appendix.tex"
+			],
+			[
+				"msc_revision_response",
+				"Msc_Revision_Response.tex"
+			],
+			[
+				"empi",
+				"5_Empirics.tex"
+			],
+			[
+				"revisio",
+				"Msc_Revision_Response.tex"
+			],
+			[
+				"revision",
+				"Msc_Revision_Response.tex"
+			],
+			[
+				"ccsoc",
+				"CCSOC_Preamble.tex"
+			],
+			[
+				"online",
+				"10_Online_Appendix.tex"
+			],
+			[
+				"msc",
+				"Msc_Revision_Response.tex"
+			],
+			[
+				"ti",
+				"0_Title.tex"
+			],
+			[
+				"they",
+				"2_Theory.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/3Res_Others/Website/tutorial/tutorial.sublime-project"
+			],
+			[
+				"sh",
+				"~/Dropbox/3Res_Others/Website/shaw/shaw.sublime-project"
+			],
+			[
+				"cc",
+				"~/Dropbox/1Res_Main_Projects/CCSOC/CCSOC.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
